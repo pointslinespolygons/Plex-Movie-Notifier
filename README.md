@@ -33,7 +33,7 @@ Plex Movie Notifier is a Google Apps Script that automates the process of sendin
   Obtain an API key from The Movie Database (TMDb) and add it to the script.
   Configure your Plex server URL and access token in the script.
 
-##Usage
+## Usage
 
 1. Run the Script:
   Once everything is set up, the script will automatically send a weekly email with the new movies added to your Plex server.
@@ -50,14 +50,14 @@ Plex Movie Notifier is a Google Apps Script that automates the process of sendin
      
   2. Plex Server URL and Token: Update the Plex server URL and token in the getNewMoviesFromPlex function.
 
-##Contributing
+## Contributing
 
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-##License:
+## License:
 This project is licensed under the MIT License
 
-##Acknowledgments:
+## Acknowledgments:
 The Movie Database (TMDb) for providing movie data and trailers.
 Plex for making media management easy and enjoyable.
 Chatgpt for helping to summarize and clean up the code. 
